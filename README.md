@@ -21,5 +21,5 @@ It showcases my projects, skills, and background as a frontend developer on a mi
 - 📜 Education & Experience
 - 📫 Contact Form / Social Links
 
-## 📁 Folder Structure
+
 
