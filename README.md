@@ -1,6 +1,6 @@
 # 🌐 Prithvi's Portfolio Website
 
-Welcome to my personal portfolio website built using **React + Vite**.  
+Welcome to portfolio website built using **React + Vite**.  
 It showcases my projects, skills, and background as a frontend developer on a mission to build clean, responsive, and user-friendly web apps.
 
 ## 🚀 Live Demo
