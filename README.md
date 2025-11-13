@@ -11,7 +11,7 @@ It showcases my projects, skills, and background as a frontend developer on a mi
 
 - [React](https://reactjs.org/)
 - [Vite](https://vitejs.dev/)
-- [CSS3 / Tailwind / Styled Components] ← *(mention what styling you used)*
+- [CSS3 / Bootstrap] 
 - [Netlify](https://www.netlify.com/) for deployment
 
 ## 📸 Sections Included
@@ -20,6 +20,3 @@ It showcases my projects, skills, and background as a frontend developer on a mi
 - 🧠 Skills & Technologies
 - 📜 Education & Experience
 - 📫 Contact Form / Social Links
-
-
-
